@@ -15,12 +15,11 @@ Make sure you are in insert mode by pressing `i` on your keyboard. Once you are 
 {% code-tabs %}
 {% code-tabs-item title="~/.vimrc" %}
 ```text
-set nocompatible
+set backspace=indent,eol,start
 set number
 syntax on
 set autoindent
 set cindent
-set backspace=indent,eol,start
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
@@ -28,6 +27,8 @@ set backspace=indent,eol,start
 Exit insert mode by pressing the Escape key on your keyboard, then type `:wq` and press enter to save the file.
 
 If you did everything correctly, the next time you open vim, you should have syntax highlighting and line numbers enabled, which will be very useful for editing C++ code!
+
+If you want to learn more about what the .vimrc actually does, we've provided an explanation in [.vimrc Explained](more-tips-and-tricks/.vimrc-explained.md).
 
 ## How much vim do I _need_ to know?
 
