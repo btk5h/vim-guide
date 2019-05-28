@@ -2,6 +2,8 @@
 
 * [Intro to Vim](README.md)
 
+## Essentials
+
 ## More Tips and Tricks
 
 * [.vimrc Explained](more-tips-and-tricks/.vimrc-explained.md)
