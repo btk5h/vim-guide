@@ -1,6 +1,6 @@
 # Automatically Fix Indentation
 
-You may find the need to fix the indentation of code that you're working on. Instead of manually going to each line and changing the indentation, vim has a shortcut that can automatically format the entire file
+You may find the need to fix the indentation of code that you're working on. Instead of manually going to each line and changing the indentation, vim has a shortcut that can automatically format the entire file.
 
 {% tabs %}
 {% tab title="Step by Step" %}
