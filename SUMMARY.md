@@ -5,6 +5,7 @@
 ## Essentials
 
 * [Automatically Fix Indentation](essentials/automatically-fix-indentation.md)
+* [Goto a Specific Line](essentials/goto-a-specific-line.md)
 
 ## More Tips and Tricks
 
