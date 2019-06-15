@@ -7,6 +7,7 @@
 * [Automatically Fix Indentation](essentials/automatically-fix-indentation.md)
 * [Goto a Specific Line](essentials/goto-a-specific-line.md)
 * [Copy/Paste](essentials/copy-paste.md)
+* [Find/Replace](essentials/find-replace.md)
 
 ## More Tips and Tricks
 
